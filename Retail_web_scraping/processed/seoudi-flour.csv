@@ -1,0 +1,60 @@
+﻿scrape_id,store,product_name,current_price,original_price,currency,brand,product_type,category,subcategory,weight_value,weight_unit,product_url,availability,search_term_ar,scraped_at,discount
+1,Seoudi Supermarket,Rich Land Semolina Flour,39.95,,EGP,Rich Land,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/%D8%B1%D9%8A%D8%AA%D8%B4-%D9%84%D8%A7%D9%86%D8%AF-%D8%AF%D9%82%D9%8A%D9%82-%D8%B3%D9%85%D9%8A%D8%AF-1-%D9%83%D8%AC%D9%85,In Stock,,2026-09-14 18:32:20.087972
+2,Seoudi Supermarket,Rich Land Whole Wheat Flour,34.95,,EGP,Rich Land,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/%D8%B1%D9%8A%D8%AA%D8%B4-%D9%84%D8%A7%D9%86%D8%AF-%D8%AF%D9%82%D9%8A%D9%82-%D8%AD%D8%A8%D8%A9-%D9%83%D8%A7%D9%85%D9%84%D8%A91%D9%83%D8%AC%D9%85,In Stock,,2026-09-14 18:32:20.092971
+4,Seoudi Supermarket,Rich Land All-Purpose Flour,28.75,,EGP,Rich Land,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/%D8%B1%D9%8A%D8%AA%D8%B4-%D9%84%D8%A7%D9%86%D8%AF-%D8%AF%D9%82%D9%8A%D9%82-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%A7%D8%BA%D8%B1%D8%A7%D8%B61%D9%83,In Stock,,2026-09-14 18:32:20.097971
+44,Seoudi Supermarket,Al Doha Flour,27.75,37.45,EGP,Al Doha,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/al-doha-flour-1-kg,In Stock,,2026-09-14 18:32:20.181970,26
+45,Seoudi Supermarket,Rehana Flour,36.95,,EGP,Rehana,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/rehana-flour-1-kg,In Stock,,2026-09-14 18:32:20.183969
+46,Seoudi Supermarket,Five Stars All Purpose Flour,39.95,44.95,EGP,Five Stars,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/five-stars-all-purpose-flour-1-kg,In Stock,,2026-09-14 18:32:20.185970,11
+47,Seoudi Supermarket,Dopella All Purpouse Flour,34.95,38.95,EGP,Dobella,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/dopella-all-purpose-flour-1-kg,In Stock,,2026-09-14 18:32:20.187967,10
+49,Seoudi Supermarket,Dobella Basbousa Semolina Flour,46.45,51.75,EGP,Dobella,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/dobella-basbousa-semolina-flour-1-kg,In Stock,,2026-09-14 18:32:20.189969,10
+50,Seoudi Supermarket,Shahy Flour,27.75,34.95,EGP,Shahy,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/shahy-flour-1-kg,In Stock,,2026-09-14 18:32:20.191970,21
+51,Seoudi Supermarket,King M All Purpose Flour,36.75,,EGP,King M,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/king-m-all-purpose-flour-1-kg,In Stock,,2026-09-14 18:32:28.776454
+53,Seoudi Supermarket,Dobella Baking & Pizza Flour,37.16,41.45,EGP,Dobella,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/dobella-baking-pizza-flour-1-kg,In Stock,,2026-09-14 18:32:28.783451,10
+54,Seoudi Supermarket,Dobella Cake Flour,37.16,41.45,EGP,Dobella,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/dobella-cake-flour-1-kg,In Stock,,2026-09-14 18:32:28.785451,10
+55,Seoudi Supermarket,Dobella Diet Flour,37.16,40.95,EGP,Dobella,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/dobella-diet-flour-1-kg,In Stock,,2026-09-14 18:32:28.786452,9
+56,Seoudi Supermarket,Dopella White Rice Flour,40.75,45.75,EGP,Dobella,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/dopella-white-rice-flour-1-kg,In Stock,,2026-09-14 18:32:28.788453,11
+57,Seoudi Supermarket,Sain Oat Flour,54.95,,EGP,Sain,Flour,Flour,,500.0,g,https://seoudisupermarket.com/en/sain-oat-flour-500-g,In Stock,,2026-09-14 18:32:28.789453
+58,Seoudi Supermarket,Picky Baker Cookies & Biscuits Flour,28.95,,EGP,Picky Baker,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/picky-baker-cookies-biscuits-flour-1-kg,In Stock,,2026-09-14 18:32:28.793452
+59,Seoudi Supermarket,King M Rice Flour,41.95,,EGP,King M,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/king-m-rice-flour-1-kg,In Stock,,2026-09-14 18:32:28.795452
+60,Seoudi Supermarket,Dobella White Corn Flour,32.63,36.95,EGP,Dobella,Flour,Flour,,750.0,g,https://seoudisupermarket.com/en/dobella-white-corn-flour-750-g,In Stock,,2026-09-14 18:32:28.796450,12
+61,Seoudi Supermarket,Five Stars Brown Flour,74.95,,EGP,Five Stars,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/five-stars-brown-flour-1-kg,In Stock,,2026-09-14 18:32:28.799451
+62,Seoudi Supermarket,Dobella Yellow Corn Flour,39.45,43.45,EGP,Dobella,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/dobella-yellow-corn-flour-1-kg,In Stock,,2026-09-14 18:32:28.800451,9
+63,Seoudi Supermarket,"Healthy Mill Oat Flour ",72.95,,EGP,Healthy Mill,Flour,Flour,,500.0,g,https://seoudisupermarket.com/en/healthy-mill-oat-flour-500-g,In Stock,,2026-09-14 18:32:28.802449
+64,Seoudi Supermarket,King M Yellow Corn Flour,41.95,,EGP,King M,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/king-m-yellow-corn-flour-1-kg,In Stock,,2026-09-14 18:32:28.803451
+65,Seoudi Supermarket,Dobella Oat Flour,92.95,,EGP,Dobella,Flour,Flour,,750.0,g,https://seoudisupermarket.com/en/dobella-oat-flour-750-g,In Stock,,2026-09-14 18:32:28.805450
+66,Seoudi Supermarket,Healthy Mill Gluten Free All Purpose Flour,66.25,,EGP,Healthy Mill,Flour,Flour,,500.0,g,https://seoudisupermarket.com/en/healthy-mill-gluten-free-all-purpose-flour-500-g,In Stock,,2026-09-14 18:32:28.806452
+67,Seoudi Supermarket,Five Stars Pancakes Flour Mix,89.95,,EGP,Five Stars,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/five-stars-pancakes-flour-mix-1-kg,In Stock,,2026-09-14 18:32:28.808451
+68,Seoudi Supermarket,Five Stars Cake Flour,57.75,,EGP,Five Stars,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/five-stars-cake-flour-1-kg,In Stock,,2026-09-14 18:32:28.810451
+79,Seoudi Supermarket,Dobella Gluten Free Chickpea Flour,77.75,,EGP,Dobella,Flour,Flour,,500.0,g,https://seoudisupermarket.com/en/dobella-gluten-free-chickpea-flour-500-g,Out of Stock,,2026-09-14 18:32:28.823453
+80,Seoudi Supermarket,Imtenan Gluten Free Almond Flour,479.95,,EGP,Imtenan,Flour,Flour,,500.0,g,https://seoudisupermarket.com/en/imtenan-gluten-free-almond-flour-500-g,Out of Stock,,2026-09-14 18:32:28.824451
+81,Seoudi Supermarket,Lametna Whole Wheat Flour,37.75,,EGP,Lametna,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/lametna-whole-wheat-flour-1-kg,Out of Stock,,2026-09-14 18:32:28.826453
+84,Seoudi Supermarket,Manitalty Italian Flour,159.95,,EGP,Manitalty,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/manitalty-italian-flour-1-kg,Out of Stock,,2026-09-14 18:32:28.829451
+96,Seoudi Supermarket,Sonbolat Elforat Cake Flour,49.95,,EGP,Sonbolat,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/sonbolat-elforat-cake-flour-1-kg,Out of Stock,,2026-09-14 18:32:28.843452
+97,Seoudi Supermarket,Sonbolat Elforat White Wheat Flour,49.95,,EGP,Sonbolat,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/sonbolat-elforat-white-wheat-flour-1-kg,Out of Stock,,2026-09-14 18:32:28.844449
+181,Seoudi Supermarket,Ragab El Attar Coconut Flour,134.95,,EGP,Ragab El Attar,Flour,Flour,,350.0,g,https://seoudisupermarket.com/en/ragab-el-attar-coconut-flour-350-g,Out of Stock,,2026-09-14 18:32:44.883605
+182,Seoudi Supermarket,Picky Baker Multi Purpose Flour,28.95,,EGP,Picky Baker,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/picky-baker-multi-purpose-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.884605
+183,Seoudi Supermarket,Dobella Biscuit & Cake Flour,37.16,41.45,EGP,Dobella,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/dobella-biscuit-cake-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.885605,10
+184,Seoudi Supermarket,Al Sakr Flour,25.95,,EGP,Al Sakr,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/al-sakr-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.886606
+185,Seoudi Supermarket,Origin Flour,25.95,,EGP,Origin,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/origin-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.887605
+186,Seoudi Supermarket,Picky Baker Pizza Flour,32.45,,EGP,Picky Baker,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/picky-baker-pizza-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.888606
+187,Seoudi Supermarket,Five Stars Pizza Flour,49.95,56.75,EGP,Five Stars,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/five-stars-pizza-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.890606,12
+188,Seoudi Supermarket,Sonbolat Elforat Biscuits & Cookies Flour,41.45,,EGP,Sonbolat,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/sonbolat-elforat-biscuits-and-cookies-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.891609
+189,Seoudi Supermarket,King M Wholemeal Brown Flour,41.95,,EGP,King M,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/king-m-wholemeal-brown-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.892605
+190,Seoudi Supermarket,Sonbolat Elforat Pizza Flour,52.45,,EGP,Sonbolat,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/sonbolat-elforat-pizza-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.892605
+191,Seoudi Supermarket,Picky Baker Cakes Flour,28.95,,EGP,Picky Baker,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/picky-baker-cakes-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.893605
+192,Seoudi Supermarket,Ragab El Attar Corn Flour,27.95,,EGP,Ragab El Attar,Flour,Flour,,500.0,g,https://seoudisupermarket.com/en/ragab-el-attar-corn-flour-500-g,Out of Stock,,2026-09-14 18:32:44.895606
+193,Seoudi Supermarket,Food Print Oat Flour,65.45,,EGP,Food Print,Flour,Flour,,500.0,g,https://seoudisupermarket.com/en/food-print-oat-flour-500-g,Out of Stock,,2026-09-14 18:32:44.896606
+194,Seoudi Supermarket,Foodprint Coconut Flour,86.75,,EGP,Foodprint,Flour,Flour,,250.0,g,https://seoudisupermarket.com/en/foodprint-coconut-flour-250-g,Out of Stock,,2026-09-14 18:32:44.897606
+195,Seoudi Supermarket,Sonbolat Elforat Gluten Free Corn Flour,56.95,,EGP,Sonbolat,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/sonbolat-elforat-gluten-free-corn-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.898606
+196,Seoudi Supermarket,Sonbolat ElForat Gluten Free Flour,101.45,,EGP,Sonbolat,Flour,Flour,,500.0,g,https://seoudisupermarket.com/en/sonbolat-elforat-gluten-free-flour-500-g,Out of Stock,,2026-09-14 18:32:44.899606
+197,Seoudi Supermarket,Keto Licious Coconut Flour,139.95,,EGP,Keto Licious,Flour,Flour,,454.0,g,https://seoudisupermarket.com/en/keto-licious-coconut-flour-454-g,Out of Stock,,2026-09-14 18:32:44.900605
+198,Seoudi Supermarket,Naldoni Coarse Corn Flour,259.95,,EGP,Naldoni,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/naldoni-coarse-corn-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.901606
+199,Seoudi Supermarket,Keto Licious Vital Wheat Gluten Flour,269.95,,EGP,Keto Licious,Flour,Flour,,454.0,g,https://seoudisupermarket.com/en/keto-licious-vital-wheat-gluten-flour-454-g,Out of Stock,,2026-09-14 18:32:44.902607
+200,Seoudi Supermarket,Double Bear Finest Rice Flour,199.75,,EGP,Double Bear,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/double-bear-finest-rice-flour-1-kg,Out of Stock,,2026-09-14 18:32:44.903607
+201,Seoudi Supermarket,5 Stagioni Pizza Flour,924.95,,EGP,5 Stagioni,Flour,Flour,,10.0,kg,https://seoudisupermarket.com/en/5-stagioni-pizza-flour-10-kg,Out of Stock,,2026-09-14 18:32:51.011163
+202,Seoudi Supermarket,Uncle Barns Tempura Flour,189.95,,EGP,Uncle Barns,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/uncle-barns-tempura-flour-1-kg,Out of Stock,,2026-09-14 18:32:51.012169
+203,Seoudi Supermarket,Uncle Barns Tempura Flour,161.95,,EGP,Uncle Barns,Flour,Flour,,500.0,g,https://seoudisupermarket.com/en/uncle-barns-tempura-flour-500-g,Out of Stock,,2026-09-14 18:32:51.012169
+204,Seoudi Supermarket,Keto Licious Lupin Flour,109.95,,EGP,Keto Licious,Flour,Flour,,454.0,g,https://seoudisupermarket.com/en/keto-licious-lupin-flour-454-g,Out of Stock,,2026-09-14 18:32:51.013167
+205,Seoudi Supermarket,Haboba Flour,24.95,,EGP,Haboba,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/haboba-flour-1-kg,Out of Stock,,2026-09-14 18:32:51.014167
+206,Seoudi Supermarket,Five Stars Dumpling Flour Mix,61.75,,EGP,Five Stars,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/five-stars-dumpling-flour-mix-1-kg,Out of Stock,,2026-09-14 18:32:51.014167
+207,Seoudi Supermarket,Sonbolat El Forat Gluten Free Rice Flour,64.95,,EGP,Sonbolat El Forat,Flour,Flour,,1.0,kg,https://seoudisupermarket.com/en/sonbolat-el-forat-gluten-free-rice-flour-1-kg,Out of Stock,,2026-09-14 18:32:51.015167
